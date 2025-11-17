@@ -38,7 +38,7 @@ The final output is an interactive dashboard showing performance across gender, 
 - Potential for expanding in Tier-2 cities
 
 # Dashboard
-<a href <img width="1920" height="1080" alt="vrinda dashboard" src="https://github.com/user-attachments/assets/a8add25c-5a17-4b89-aa14-ad43f21639f4" /> </a>
+ <img width="1920" height="1080" alt="vrinda dashboard" src="https://github.com/user-attachments/assets/a8add25c-5a17-4b89-aa14-ad43f21639f4" /> 
 
 
 
