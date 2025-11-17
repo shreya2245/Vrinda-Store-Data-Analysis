@@ -40,6 +40,9 @@ The final output is an interactive dashboard showing performance across gender, 
 # Dashboard
  <img width="1920" height="1080" alt="vrinda dashboard" src="https://github.com/user-attachments/assets/a8add25c-5a17-4b89-aa14-ad43f21639f4" /> 
 
+# Conclusion
+Vrinda Store’s sales are driven mainly by women shoppers, with Flipkart & Amazon being top channels. Haryana , West Bengal and Tamil Nadu are key performing states. The dashboard can help to plan better marketing & supply strategies.
+
 
 
 
